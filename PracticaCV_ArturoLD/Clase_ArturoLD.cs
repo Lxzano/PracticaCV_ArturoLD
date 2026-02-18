@@ -8,5 +8,16 @@ namespace PracticaCV_ArturoLD
 {
     internal class Clase_ArturoLD
     {
+        // CONSTANTES 
+
+        // MIEMBROS/CAMPOS
+
+        // PROPIEDADES 
+
+        // CONSTRUCTORES
+
+        // MÉTODOS PRIVADOS
+
+        // MÉTODOS PÚBLICOS
     }
 }
